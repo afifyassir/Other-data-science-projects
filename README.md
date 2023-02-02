@@ -1,6 +1,6 @@
 # Other-data-science-projects
 
-Note that there is a Medium article where I describe in detail the prediction of CLV. you can access this article using the following link:
+Note that there is a Medium article where I describe in detail the prediction of CLV. You can access this article using the following link:
 
 https://medium.com/@yassirafif/projecting-customer-lifetime-value-using-the-bg-nbd-and-the-gamma-gamma-models-9a937c60fe7f
 
