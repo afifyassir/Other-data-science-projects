@@ -7,8 +7,10 @@ https://medium.com/@yassirafif/projecting-customer-lifetime-value-using-the-bg-n
 If you get the error "Unable to render rich display" when loading the notebooks, please consider using the following links:
 
 - Image classification :
+
 https://nbviewer.org/github/afifyassir/Other-data-science-projects/blob/main/Image%20classification%20using%20CNN.ipynb
 
 - Predicting CLV:
+
 https://nbviewer.org/github/afifyassir/Other-data-science-projects/blob/main/Predicting%20CLV.ipynb
 
